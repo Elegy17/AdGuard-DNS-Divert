@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-06-05 12:15:17
+# 自动生成于 2026-06-06 11:58:05
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -67,7 +67,7 @@ https://223.6.6.6/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32828 个域名，逐条规则）
+# 国外域名规则（共 32830 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -27169,6 +27169,7 @@ https://223.6.6.6/dns-query
 [/suttoncollege.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/suxib.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/suxiebu.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/suyingtv.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/sv/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/svaboda.org/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/svc.ms/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -31213,6 +31214,7 @@ https://223.6.6.6/dns-query
 [/wp-themes.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/wp.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/wpewebkit.org/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/wplace.live/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/wpoforum.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/wpvip.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/wqe.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
