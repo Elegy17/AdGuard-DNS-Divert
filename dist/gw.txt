@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-10-24 12:02:11
+# 自动生成于 2026-10-25 12:03:14
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -67,7 +67,7 @@ https://223.6.6.6/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32991 个域名，逐条规则）
+# 国外域名规则（共 32999 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -111,6 +111,7 @@ https://223.6.6.6/dns-query
 [/123-hp.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/123av.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/123av.me/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/123av.org/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/123bin.cc/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/123dapp.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/123dappipad.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -16740,6 +16741,7 @@ https://223.6.6.6/dns-query
 [/kilmeadeandfriends.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/kimchi.tv/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/kimogirl.cc/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/kimootoko.net/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/kimosex.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/kimy.com.tw/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/kindgirls.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -19242,6 +19244,7 @@ https://223.6.6.6/dns-query
 [/miniwindsor.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/miniworkshop.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/miniyaletown.ca/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/minkch.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/minnano-av.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/minneapolisbmw.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/minneapolisbmw.net/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -19637,6 +19640,7 @@ https://223.6.6.6/dns-query
 [/movidius.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/movidius.net/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/movie-erog.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/movie.eroterest.net/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/movie1000.xyz/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/moviefap.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/moviepost.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -21029,7 +21033,9 @@ https://223.6.6.6/dns-query
 [/nixos.org/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/niziero.info/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/njactb.org/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/njav.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/njav.tv/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/njavtv.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/njncscotlandscolleges.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/njuice.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/nkc.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -22959,6 +22965,7 @@ https://223.6.6.6/dns-query
 [/pn/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/pnas.org/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/pnc/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/po-kaki-to.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/po18.tw/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/po2b.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/pobieramy.top/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -33023,6 +33030,7 @@ https://223.6.6.6/dns-query
 [/zorglist.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/zorrovpn.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/zozotown.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/zozovideo.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/zpn.im/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/zqqpwz.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/zsh.org/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
