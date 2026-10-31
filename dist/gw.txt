@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-10-30 13:09:46
+# 自动生成于 2026-10-31 12:55:13
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -67,7 +67,7 @@ https://223.6.6.6/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32999 个域名，逐条规则）
+# 国外域名规则（共 33003 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -1949,6 +1949,7 @@ https://223.6.6.6/dns-query
 [/anthemgame.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/anthemthegame.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/anthonycalzadilla.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/anthropic.auth0.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/anthropic.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/anthropology.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/anti1984.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -5351,6 +5352,7 @@ https://223.6.6.6/dns-query
 [/bsixbrookehousesixthformcollege.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/bsixcollege.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/bsky.app/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/bsky.chat/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/bsky.network/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/bsky.social/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/bsls.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -6791,7 +6793,9 @@ https://223.6.6.6/dns-query
 [/classics.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/classymomsex.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/claude.ai/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/claude.app/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/claude.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/claudemcpcontent.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/claudeusercontent.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/clb.org.hk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/clc-london.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
