@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-05 13:58:29
+# 自动生成于 2026-11-06 13:55:05
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -18445,7 +18445,6 @@ https://223.6.6.6/dns-query
 [/maturewomenanal.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/maturexxxvideos.cc/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/mau.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
-[/maven.neoforged.net/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/maven.org/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/max.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/maxgo.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
@@ -20407,6 +20406,7 @@ https://223.6.6.6/dns-query
 [/neo-miracle.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/neodaas.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/neodb.social/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
+[/neoforged.net/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/neonatalsociety.ac.uk/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/neotokyo.supertop-100.com/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
 [/neow.in/]https://basic.rethinkdns.com:443 https://wikimedia-dns.org:443/dns-query tls://e858b2.dns.nextdns.io quic://e858b2.dns.nextdns.io tls://8.8.8.8 tls://8.8.4.4 https://8.8.8.8/dns-query https://8.8.4.4/dns-query
